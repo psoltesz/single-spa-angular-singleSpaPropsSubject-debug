@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "child-app": "http://localhost:4201/main.js"
+  }
+}
